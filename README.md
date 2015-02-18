@@ -1,2 +1,2 @@
 # gallery
-screenshots about my objects
+screenshots of my objects
